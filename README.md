@@ -1,4 +1,4 @@
-# app-releases
+# App Releases
 Repository of Public installers and updates.
 
 ---
