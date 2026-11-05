@@ -6,5 +6,5 @@ Repository of Public installers and updates.
 &copy; 2026 SonicPet07. All rights reserved.
 
 <!-- download:security-card-sim -->
-- **Security Card Sim** — [Download installer](https://github.com/SonicPet07/app-releases/releases/download/security-card-sim-v0.6.0/SecurityCardSim-Setup-v0.6.0.exe)
+- **Security Card Sim** — [Download installer](https://github.com/SonicPet07/app-releases/releases/download/security-card-sim-v0.7.0/SecurityCardSim-Setup-v0.7.0.exe)
 <!-- /download:security-card-sim -->
